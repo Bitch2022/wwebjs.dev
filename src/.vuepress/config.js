@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = {33593312}
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
@@ -32,7 +32,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "pedroslopez/whatsapp-web.js",
+    repo: "carlosmaradiaga/whatsapp-web.js",
     docsRepo: "wwebjs/wwebjs.dev",
     docsBranch: "main",
     editLinks: true,
